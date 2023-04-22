@@ -10,9 +10,9 @@ The first and most popular XFS-Network wallet. Recommended by XFS-Network Founda
 
 
 
-![ ](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230422200158406.png)![](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230422200332164.png)
+<img src="./settingpage.png">
 
-
+<img src="./tx_send_page.png">
 
 
 
